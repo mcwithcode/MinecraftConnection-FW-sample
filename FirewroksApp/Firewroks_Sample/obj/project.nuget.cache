@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLKl5UrycuJKWEJ0rAQzRbMEIE1qFeiCROLFt9bN+sMQbkP6kl4iTi1al+nUlEfipmLfu1wKD9/atwJHe5ozUw==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\MinecraftConnection-FW-sample\\FirewroksApp\\Firewroks_Sample\\Firewroks_Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takun\\.nuget\\packages\\minecraftconnection\\2.0.1\\minecraftconnection.2.0.1.nupkg.sha512",
+    "C:\\Users\\takun\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\takun\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\takun\\.nuget\\packages\\system.text.json\\6.0.3\\system.text.json.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
